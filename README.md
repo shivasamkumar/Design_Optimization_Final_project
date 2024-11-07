@@ -44,7 +44,7 @@ open Visual studio code and select python kerenel as 3.10.5 and Run the Main fil
 
 **Video**
 
-                                   This video shows the Demonstation of the project
+                                      This video shows the Demonstation of the project
 
 
 [![Watch the video](https://github.com/shivasamkumar/Design_Optimization_Final_project/blob/main/Screenshot%20from%202024-11-07%2011-46-59.png)](https://drive.google.com/file/d/1ShP-VWfv6WIJ6ot2c8PE-dyYAamWYO5u/view?usp=sharing)
