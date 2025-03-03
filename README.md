@@ -52,9 +52,9 @@ open Visual studio code and select python kerenel as 3.10.5 and Run the Main fil
 
                                                        Carla Simulation Track 
 
-![Demo Image](path/to/demo-image.png)  
+![Demo Image](trajectory.png)  
 
-                                      This video shows the Demonstation of the project in carla simulation 
+                                This video shows the Demonstation of the project in carla simulation 
 
 
 [![Watch the video]()](https://drive.google.com/file/d/1bnslvg_tduYz1SL6sid344SuI9o-KWxV/view)
