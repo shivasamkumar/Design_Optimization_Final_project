@@ -16,6 +16,8 @@ The controller’s effectiveness was tested in simulations across three distinct
 
 * QP solvers Cvx opt
 
+* Carla Simulator
+
 
 ## Run Locally
 
@@ -44,11 +46,21 @@ open Visual studio code and select python kerenel as 3.10.5 and Run the Main fil
 
 **Video**
 
-                                      This video shows the Demonstation of the project
+This video shows the Demonstation of the project. **Click on the Image to watch the Video**
 
 
 [![Watch the video](https://github.com/shivasamkumar/Design_Optimization_Final_project/blob/main/Screenshot%20from%202024-11-07%2011-46-59.png)](https://drive.google.com/file/d/1ShP-VWfv6WIJ6ot2c8PE-dyYAamWYO5u/view?usp=sharing)
 
+
+                                                       Carla Simulation Track 
+
+![Demo Image](trajectory.png)  
+
+
+This video shows the Demonstation of the project in carla simulation. **Click on the Image to watch the Video**
+
+
+[![Watch the video](https://github.com/shivasamkumar/Design_Optimization_Final_project/blob/main/Screenshot%20from%202025-03-03%2016-33-11.png)](https://drive.google.com/file/d/1bnslvg_tduYz1SL6sid344SuI9o-KWxV/view)
 
 
 ## Future versions 
